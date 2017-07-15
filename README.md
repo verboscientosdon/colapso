@@ -1,0 +1,2 @@
+# colapso
+Repositorio para kodi
